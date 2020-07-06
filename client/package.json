@@ -35,6 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://contact-manager-appp.herokuapp.com/",
-  "secure": false
+  "proxy": "https://contact-manager-appp.herokuapp.com/"
 }
