@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://rambo:RGSIx2TvhfusqmCN@cluster0.0fccp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "what do they know? do they know things? lets find out"
+}
