@@ -14,6 +14,7 @@ import PrivateRoute from "./components/routing/PrivateRoute";
 import setAuthToken from "./utils/SetAuthToken";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Sticky from "react-stickynode";
 
 import "./App.css";
 
@@ -28,7 +29,9 @@ const App = () => {
         <AlertState>
           <Router>
             <Fragment>
-              <Navbar />
+              <Sticky>
+                <Navbar />
+              </Sticky>
               <div className='container'>
                 <Alerts />
                 <Switch>

@@ -29,7 +29,9 @@
     "express-validator": "^6.6.0",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.9",
-    "mongoose": "^5.9.20"
+    "mongoose": "^5.9.20",
+    "react-sticky-box": "^0.9.3",
+    "react-stickynode": "^3.0.3"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
